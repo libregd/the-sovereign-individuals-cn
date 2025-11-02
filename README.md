@@ -1,3 +1,4 @@
+![](./images/banner.png)
 # 主权个体（中译版）
 
 `sovereign-Individuals-en-cn.html` 实际上是『中英对照』版本，英文部分在浏览器里被 `<!--   -->` 给隐藏掉了…… 使用 SublimeText 或者 Visual Studio Code 之类的编辑器打开，每一行中文都对应着保留的英文文本。比如：
