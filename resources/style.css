@@ -7,17 +7,17 @@ html {
     background-color: #eee;
 }
 
-#title-block-header {
+/* #title-block-header {
     background-color: #eee;
     position: fixed;
     /* Set the navbar to fixed position */
-    top: -30px;
+    /* top: -30px; */
     /* Position the navbar at the top of the page */
-    width: 100%;
+    /* width: 100%; */
     /* Full width */
-    /* border-bottom: 1px solid #752828; */
-    background: url(images/background.jpg) #752828;
-}
+    /* border-bottom: 1px solid #33C058; */
+    /* background: url(images/background.jpg) #33C058; */
+/* } */ 
 
 #title-block-header h1{
     color: aliceblue;
@@ -30,13 +30,13 @@ html {
     overflow-y: auto;
     padding-left: 20px;
     height: 100vh;
-    padding-top: 50px;
+    /* padding-top: 50px; */
 }
 
 .contents {
-    margin-top: 100px;
+    margin-top: 20px;
     margin-left: 30%;
-    padding-top: 50px;
+    /* padding-top: 50px; */
     width: 65%;
 }
 
@@ -258,12 +258,12 @@ sub {
 
 sup a,
 sub a {
-    color: #752828;
+    color: #33C058;
     text-decoration: none !important;
 }
 
 em,
 em a {
     font-size: 90%;
-    color: #752828;
+    color: #33C058;
 }
